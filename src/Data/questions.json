@@ -1,0 +1,52 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "Jane Austen", "Ernest Hemingway"],
+      "answer": "Harper Lee"
+  },
+  {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+  },
+  {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO"],
+      "answer": "H2O"
+  },
+  {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "India"],
+      "answer": "Japan"
+  },
+  {
+      "question": "What is the speed of light?",
+      "options": ["299,792 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+      "answer": "299,792 km/s"
+  },
+  {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+  },
+  {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "answer": "Diamond"
+  },
+  {
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "options": ["Tofu", "Soybean paste", "Seaweed", "Rice"],
+      "answer": "Soybean paste"
+  }
+]
